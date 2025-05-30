@@ -1,0 +1,48 @@
+Config path resolved to: B:\stealth_app\config\settings.json
+Loaded settings: {'interface_name': '以太网', 'hide_hotkey': '<ctrl>+<alt>+h', 'target_apps': [111]}
+Setting key 'test_key' to: test_value
+Setting key 'target_apps' to: [{'title': 'notepad.exe', 'process': 'notepad.exe'}]
+Attempting to save settings: {'interface_name': '以太网', 'hide_hotkey': '<ctrl>+<alt>+h', 'target_apps': [{'title': 'notepad.exe', 'process': 'notepad.exe'}], 'test_key': 'test_value'}
+Settings saved to B:\stealth_app\config\settings.json: {'interface_name': '以太网', 'hide_hotkey': '<ctrl>+<alt>+h', 'target_apps': [{'title': 'notepad.exe', 'process': 'notepad.exe'}], 'test_key': 'test_value'}
+Config path resolved to: B:\stealth_app\config\settings.json
+Loaded settings: {'interface_name': '以太网', 'hide_hotkey': '<ctrl>+<alt>+h', 'target_apps': [{'title': 'notepad.exe', 'process': 'notepad.exe'}], 'test_key': 'test_value'}
+SimpleLogger initialized at: B:\stealth_app\logs\app.log
+Getting key 'interface_name': 以太网
+SimpleLogger initialized at: B:\stealth_app\logs\app.log
+Getting key 'hide_hotkey': <ctrl>+<alt>+h
+SimpleLogger initialized at: B:\stealth_app\logs\app.log
+Getting key 'interface_name': 以太网
+Getting key 'hide_hotkey': <ctrl>+<alt>+h
+Getting key 'target_apps': [{'title': 'notepad.exe', 'process': 'notepad.exe'}]
+Setting key 'target_apps' to: [{'title': 'notepad.exe', 'process': 'notepad.exe'}, {'title': '记事本', 'process': '记事本'}]
+Getting key 'target_apps': [{'title': 'notepad.exe', 'process': 'notepad.exe'}, {'title': '记事本', 'process': '记事本'}]
+Attempting to save settings: {'interface_name': '以太网', 'hide_hotkey': '<ctrl>+<alt>+h', 'target_apps': [{'title': 'notepad.exe', 'process': 'notepad.exe'}, {'title': '记事本', 'process': '记事本'}], 'test_key': 'test_value'}
+Settings saved to B:\stealth_app\config\settings.json: {'interface_name': '以太网', 'hide_hotkey': '<ctrl>+<alt>+h', 'target_apps': [{'title': 'notepad.exe', 'process': 'notepad.exe'}, {'title': '记事本', 'process': '记事本'}], 'test_key': 'test_value'}
+Setting key 'interface_name' to: 以太网
+Setting key 'hide_hotkey' to: <ctrl>+<alt>+h
+Attempting to save settings: {'interface_name': '以太网', 'hide_hotkey': '<ctrl>+<alt>+h', 'target_apps': [{'title': 'notepad.exe', 'process': 'notepad.exe'}, {'title': '记事本', 'process': '记事本'}], 'test_key': 'test_value'}
+Settings saved to B:\stealth_app\config\settings.json: {'interface_name': '以太网', 'hide_hotkey': '<ctrl>+<alt>+h', 'target_apps': [{'title': 'notepad.exe', 'process': 'notepad.exe'}, {'title': '记事本', 'process': '记事本'}], 'test_key': 'test_value'}
+SimpleLogger initialized at: B:\stealth_app\logs\app.log
+Getting key 'interface_name': 以太网
+Getting key 'hide_hotkey': <ctrl>+<alt>+h
+SimpleLogger initialized at: B:\stealth_app\logs\app.log
+Getting key 'interface_name': 以太网
+Getting key 'hide_hotkey': <ctrl>+<alt>+h
+Initializing StealthService...
+Creating logger...
+SimpleLogger initialized at: B:\stealth_app\logs\app.log
+2025-05-29 11:14:31 - INFO - Logger initialized in service
+Logger created successfully
+Config path resolved to: B:\stealth_app\config\settings.json
+Loaded settings: {'interface_name': '以太网', 'hide_hotkey': '<ctrl>+<alt>+h', 'target_apps': [{'title': 'notepad.exe', 'process': 'notepad.exe'}, {'title': '记事本', 'process': '记事本'}], 'test_key': 'test_value'}
+SimpleLogger initialized at: B:\stealth_app\logs\app.log
+Getting key 'interface_name': 以太网
+SimpleLogger initialized at: B:\stealth_app\logs\app.log
+Service initialization complete
+2025-05-29 11:14:31 - INFO - Service initialization complete
+Starting service...
+2025-05-29 11:14:31 - INFO - Service started in SvcDoRun
+Service started in SvcDoRun
+Entering main loop...
+2025-05-29 11:14:31 - INFO - Service started - main loop entry
+Service started - main loop entry
